@@ -1,16 +1,30 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-<img align="left" height="150" src="https://scontent.flim19-1.fna.fbcdn.net/v/t39.30808-6/409037228_1860119654437801_1903978217210949694_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF9qNk0H67rSgLHP0TCx_VrmGJXUdBJvK2YYldR0Em8rXGkKKP8Ts2XIh2ktCw5jMbx0YZGccm4c6BQ1xyrtajD&_nc_ohc=3_foAWkT-ncAX-eiFiC&_nc_ht=scontent.flim19-1.fna&oh=00_AfDp2fyK07jZ2tQCV3kVzeSFRYOaGERUQehHPYQePndd6g&oe=65FCFEF0"  />
+<h2 align="left">Hi 👋, I'm James Frank Mendoza Rios</h2>
+<h3 align =center>Passionate about the world of software development</h3>
+
+<h2 align="left">About me</h2>
+
+###
+
+<img align="left" height="200" src="https://scontent.flim19-1.fna.fbcdn.net/v/t39.30808-6/409037228_1860119654437801_1903978217210949694_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF9qNk0H67rSgLHP0TCx_VrmGJXUdBJvK2YYldR0Em8rXGkKKP8Ts2XIh2ktCw5jMbx0YZGccm4c6BQ1xyrtajD&_nc_ohc=3_foAWkT-ncAX-eiFiC&_nc_ht=scontent.flim19-1.fna&oh=00_AfDp2fyK07jZ2tQCV3kVzeSFRYOaGERUQehHPYQePndd6g&oe=65FCFEF0"  />
+
+###
+
+<p align="left">✨ Creating bugs since 🐞 2022, I began my path in programming during my university years, facing challenges with complex algorithms that pushed me to delve deeper into learning.<br><br>📚 I currently focus on web development, mastering Angular, Vue.js and backend technologies such as .NET Core and Django. Additionally, I delve into native mobile development for Android using Kotlin and experiment with PWAs to deliver optimal mobile experiences.<br><br>🎯 My goals include contributing to open source projects, taking on leadership roles to inspire others, and eventually launching my own tech startup to address social issues with innovative ideas.<br><br>🎲 Additionally, I enjoy board games, where I combine creativity and strategy in chess campaigns with friends as a way to disconnect from programming.</p>
+
+###
+
+<img align="right" height="150" src="https://scontent.flim19-1.fna.fbcdn.net/v/t39.30808-6/427861534_1857948471321586_9074446820603295336_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHGI7AhJGRtold6bMgFTf-1I1wOIenOyMUjXA4h6c7IxSLlswlSSqxwLzrU4CAlt6-ksP1W_9dU0NvjiUMG6_Ny&_nc_ohc=KxICU5DHYacAX_lyHQW&_nc_ht=scontent.flim19-1.fna&oh=00_AfAscpMutS4sKzM1zPy-Bwsry70ZI4XIo2IZIN6NS_VBdw&oe=65FC8C5C"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
 </div>
 
 ###
@@ -40,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/James25Frank21/James25Frank21/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/James25Frank21/snake.yml" alt="Snake animation" />
 
 ###
 
@@ -121,3 +135,6 @@
 </td></tr></table>  
 
 <br/>  
+
+
+
