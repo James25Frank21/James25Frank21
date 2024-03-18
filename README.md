@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 🐞 2022, I began my path in programming during my university years, facing challenges with complex algorithms that pushed me to delve deeper into learning.<br><br>📚 I currently focus on web development, mastering Vue.js and backend technologies such as .NET Core and Django. Additionally, I delve into native mobile development for Android using Kotlin and experiment with PWAs to deliver optimal mobile experiences.<br><br>🎯 My goals include contributing to open source projects, taking on leadership roles to inspire others, and eventually launching my own tech startup to address social issues with innovative ideas.<br><br>🎲 Additionally, I enjoy board games, where I combine creativity and strategy in chess campaigns with friends as a way to disconnect from programming.</p>
+<p align="left">✨ Creando bugs desde 🐞 2022, comencé mi camino en la programación durante mis años universitarios, enfrentando desafíos con algoritmos complejos que me empujaron a profundizar en el aprendizaje.<br><br>📚 Actualmente me enfoco en el desarrollo web, dominando Vue.js y tecnologías backend como .NET Core y Django. Además, profundizo en el desarrollo móvil nativo para Android usando Kotlin y experimento con PWA para ofrecer experiencias móviles óptimas.<br><br>🎯 Mis objetivos incluyen contribuir a proyectos de código abierto, asumir roles de liderazgo para inspirar a otros y, finalmente, lanzar mi propia startup tecnológica para abordar problemáticas sociales con ideas innovadoras.<br><br>🎲 Además, disfruto de los juegos de mesa, donde combino creatividad y estrategia en campañas de ajedrez con amigos como una forma de desconectarme de la programación.</p>
 
 ###
 
