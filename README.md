@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋, I'm James Frank Mendoza Rios</h2>
-<h3 align =center>Passionate about the world of software development</h3>
+<h2 align="left">Hola 👋, Soy James Frank Mendoza Rios</h2>
+<h3 align =center>Un apasionado por el mundo del desarrollo de software</h3>
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mí</h2>
 
 ###
 
