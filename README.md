@@ -5,7 +5,7 @@
 
 ###
 
-<img align="left" height="200" src="https://scontent.flim24-1.fna.fbcdn.net/v/t39.30808-6/427861534_1857948471321586_9074446820603295336_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHGI7AhJGRtold6bMgFTf-1I1wOIenOyMUjXA4h6c7IxSLlswlSSqxwLzrU4CAlt6-ksP1W_9dU0NvjiUMG6_Ny&_nc_ohc=JaYLquTXFOIAb4A6uj0&_nc_ht=scontent.flim24-1.fna&oh=00_AfCbin4PovJRNjdpmbzCwVqbUcWTAoP3pJ7_QzT0ML2Oig&oe=66139E9C"  />
+<img align="left" height="200" src="https://drive.google.com/file/d/1oQlf75ub3LmpAn4DqBeLacs3tXWaIwl4/view?usp=drive_link"  />
 
 ###
 
