@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://scontent.flim19-1.fna.fbcdn.net/v/t39.30808-1/409037228_1860119654437801_1903978217210949694_n.jpg?stp=dst-jpg_p200x200&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF9qNk0H67rSgLHP0TCx_VrmGJXUdBJvK2YYldR0Em8rXGkKKP8Ts2XIh2ktCw5jMbx0YZGccm4c6BQ1xyrtajD&_nc_ohc=7F2aNW28HsMAX935CaL&_nc_ht=scontent.flim19-1.fna&oh=00_AfBn1bkrVet3GaYYtDJFhrduNmtPxcXlxAyRiZdprXWXWw&oe=660B4B2E"  />
+<img align="right" height="150" src="https://github.com/James25Frank21/James25Frank21/blob/main/438675129_1893363794446720_8862068796082253043_n.jpg"  />
 
 ###
 
@@ -34,7 +34,7 @@
   
   <a href="https://discord.gg/JFksdgpK" ><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrkVgmhfFBNFRNgMwSKJMjVWmGqKHZLNzNwVbnqqTfBRsbmqJLNBqzrPfGwRnQhjfTqXZg"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href = "linkedin.com/in/jamesfrankmendoza/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+  <a href = "linkedin.com/in/jamesfrankmendoza"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
   <a href="https://developer-rfw4839.slack.com/team/U06PSCNFH2A"><img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  /> </a>
 </div>
 
